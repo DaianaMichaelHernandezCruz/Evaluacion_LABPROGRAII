@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1711168604 source:d:\lab programacion eva1\evaluacion1ejercicio1\src\cliente.cpp
+	"Cliente.h"
+
+1711168360 d:\lab programacion eva1\evaluacion1ejercicio1\include\cliente.h
+	<iostream>
+	<string.h>
+
+1711168604 source:d:\lab programacion eva1\evaluacion1ejercicio1\src\fecha.cpp
+	"Fecha.h"
+
+1711168360 d:\lab programacion eva1\evaluacion1ejercicio1\include\fecha.h
+	<iostream>
+
+1711168606 source:d:\lab programacion eva1\evaluacion1ejercicio1\src\pago.cpp
+	"Pago.h"
+
+1711168380 d:\lab programacion eva1\evaluacion1ejercicio1\include\pago.h
+	<iostream>
+	"Fecha.h"
+
+1711168606 source:d:\lab programacion eva1\evaluacion1ejercicio1\src\prestamo.cpp
+	"Prestamo.h"
+	"Cliente.h"
+	"Pago.h"
+	"Fecha.h"
+
+1711168498 d:\lab programacion eva1\evaluacion1ejercicio1\include\prestamo.h
+	"Cliente.h"
+	"Pago.h"
+	"Fecha.h"
+
+1711168848 source:d:\lab programacion eva1\evaluacion1ejercicio1\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Prestamo.h"
+
